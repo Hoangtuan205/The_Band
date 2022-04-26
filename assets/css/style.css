@@ -23,6 +23,7 @@
 
 .btn {
     border: none;
+    border-radius: 6px;
     text-decoration: none;
     color: #fff;
     background-color:#000;
